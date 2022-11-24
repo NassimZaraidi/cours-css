@@ -1,0 +1,35 @@
+
+body { 
+  font-family: "Roboto", sans-serif;
+  font-family: "Roboto Condensed", sans-serif;
+  
+}
+h1 {
+  font-size: 100px;
+
+  font-family: "Dancing Script", cursive;
+  text-align: center;
+  color: white;
+  background-color: rgb(106, 139, 221);
+  border: 0px blue solid;
+  margin-left: 600px;
+  margin-right: 600px;
+}
+h2 {
+  text-align: center;
+  color: rgb(106, 139, 221);
+  text-decoration: underline;
+  font-size: 50px;
+}
+
+p {
+  margin-left: 300px;
+  margin-right: 300px;
+  
+}
+ul {
+  margin-left: 300px;
+}
+ul p {
+  margin-left: 0px;
+}
